@@ -1,0 +1,34 @@
+ body {
+     font-family: 'Poppins', sans-serif;
+     background-image: url(/assets/img/sfondo.png);
+
+ }
+
+ header {
+     margin: auto;
+     width: auto;
+     height: 200px;
+     background-image: linear-gradient(blue, cyan);
+     text-align: center;
+     color: white;
+     text-transform: uppercase;
+     font-weight: bold;
+     padding: 30px;
+ }
+
+ header a:link,header a:visited {
+    color: white;
+    text-decoration: none;
+ }
+
+ header ul li {
+    list-style-type: none;
+}
+header ul li::before {
+    content:"⭐";
+}
+
+
+
+
+
