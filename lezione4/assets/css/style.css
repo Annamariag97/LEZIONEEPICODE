@@ -28,6 +28,15 @@ header ul li::before {
     content:"⭐";
 }
 
+.testa {
+    margin: 20px;
+    padding: 30px;
+text-align: center;
+}
+
+
+
+
 
 
 

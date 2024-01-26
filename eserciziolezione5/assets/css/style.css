@@ -1,0 +1,57 @@
+body {
+    text-align: center;
+    margin: 0;
+    color: #333;
+    font-family: Georgia, serif;
+}
+
+header {
+    background-color: black;
+}
+
+#logo {
+    width: 200px;
+    margin: 1rem 0;
+}
+
+
+h1 {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.section-banner {
+    background-image: url(/assets/img/banner.jpg);
+    background-size: cover;
+ 
+    background-position:center;
+    color: black;
+    text-align: center;
+    padding: 100px;
+
+}
+
+.section-banner h1 {
+
+
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 38px;
+    margin-top: -40px;
+    color: rgb(7, 117, 236);
+}
+
+.section-banner p {
+    font-size: 20px;
+      color: dark;
+      font-family: 'Arial', sans-serif;
+ margin: 20px;
+     }
+
+     .finto-link {
+        color: white; 
+
+        text-decoration:none 
+        cursor: pointer; 
+        display: inline; 
+     }
