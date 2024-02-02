@@ -1,0 +1,46 @@
+body {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font: size 2rem;
+    text-align: center;
+    margin: 0;
+}
+
+.logo {
+    width: 10%
+}
+
+#logo {
+    background-color: #222F3F;
+    text-align: left;
+}
+
+
+.horizontal-table {
+    display: flex;
+    flex-direction: row;
+    background-color: #333f4e;
+    padding: 5px;
+  }
+
+  .cell {
+    flex: 1;
+    border:none
+    padding: 5px;
+    text-align: center;
+    margin-right: 5px;
+
+
+}
+
+  .left-column {
+    text-align: left;
+  }
+
+  .cell a {
+    text-decoration: none;
+    color: #fff; }
+
+
+
+    
